@@ -28,7 +28,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '749#io$8t-lzz4gh&pawj5t96nkd)dq$932#q3v^wkgdi6q$!('
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['dry-headland-24792.herokuapp.com','127.0.0.1']
 
