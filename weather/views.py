@@ -91,7 +91,7 @@ def citiesbyname(request):
         
     
     context['cities_named'] = all_cities_named
-    return render(request,'weather\index.html',context)
+    return render(request,'weather/index.html',context)
         
 
 
