@@ -56,7 +56,7 @@ def index(request):
 
     context['form'] = form
     context['cities'] = all_cities
-    return render(request, 'weather\index.html',context)
+    return render(request, 'weather/index.html',context)
 
 
 def citiesbyname(request):
