@@ -8,7 +8,7 @@ from random import shuffle
 
 context = {'form': CityForm()}
 
-with open('staticfiles\json\cities.json') as json_file:
+with open('json\cities.json') as json_file:
     data = json.load(json_file)
     city_data = []
     for i in data:
