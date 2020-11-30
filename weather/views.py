@@ -8,11 +8,11 @@ from random import shuffle
 
 context = {'form': CityForm()}
 
-# with open('json\cities.json') as json_file:
-#     data = json.load(json_file)
-#     city_data = []
-#     for i in data:
-#         city_data.append(i['Name'])
+with open('staticfiles\json\cities.json') as json_file:
+    data = json.load(json_file)
+    city_data = []
+    for i in data:
+        city_data.append(i['Name'])
 
 
 def index(request):
