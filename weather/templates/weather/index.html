@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style1.css' %}">
+</head>
+<body>
+    <div class="heading">
+        <h1>Weather App</h1>
+    </div>
+    <div class="container">
+        <div class="search_city">
+            <form action="/" method="POST" name="form1" >
+                {% csrf_token %}
+                {{form.name}}
+                <!-- <input class="search" type="text" id="search" /> -->
+                <input class="submit" type="submit" value="GO" id="first_button"/>
+            </form>
+        </div>
+        <div class="search_name">
+            <form action="/named/" method="POST" name="form2">
+                {% csrf_token %}
+                <input class="search" type="text" id="search" name="name" placeholder="Your Name" />
+                <input class="submit" type="submit" value="GO"/>
+            </form>
+        </div>
+        <div class="columns" id="column2">
+            {% for city in cities %}
+                <div class="city_box">
+                    <div class="city_name">{{city.name}}</div>
+                    <div class="humidity">Humidity {{city.humidity}}%</div>
+                    <div class="w_speed">{{city.w_speed}} km/h</div>
+                    <div class="image"><img src="http://openweathermap.org/img/w/{{city.icon}}.png" alt=""></div>
+                    <div class="city_temp">{{city.temp}} °</div>
+                    <div class = "button_delete">
+                        <a href="{% url 'delete_city' city.name %}">
+                            <button class="delete">x</button>
+                        </a>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="columns" id="column3">
+            {% for city in cities_named %}
+                <div class="city_box">
+                    <div class="city_name">{{city.name}}</div>
+                    <div class="humidity">Humidity {{city.hu.midity}}%</div>
+                    <div class="w_speed">{{city.w_speed}} km/h</div>
+                    <div class="image"><img src="http://openweathermap.org/img/w/{{city.icon}}.png" alt=""></div>
+                    <div class="city_temp">{{city.temp}} °</div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,3002 @@
+[
+	{
+		"Name" : "Kabul"
+	},
+	{
+		"Name" : "Qandahar"
+	},
+	{
+		"Name" : "Herat"
+	},
+	{
+		"Name" : "Mazar-e-Sharif"
+	},
+	{
+		"Name" : "Amsterdam"
+	},
+	{
+		"Name" : "Rotterdam"
+	},
+	{
+		"Name" : "Haag"
+	},
+	{
+		"Name" : "Utrecht"
+	},
+	{
+		"Name" : "Eindhoven"
+	},
+	{
+		"Name" : "Tilburg"
+	},
+	{
+		"Name" : "Groningen"
+	},
+	{
+		"Name" : "Breda"
+	},
+	{
+		"Name" : "Apeldoorn"
+	},
+	{
+		"Name" : "Nijmegen"
+	},
+	{
+		"Name" : "Enschede"
+	},
+	{
+		"Name" : "Haarlem"
+	},
+	{
+		"Name" : "Almere"
+	},
+	{
+		"Name" : "Arnhem"
+	},
+	{
+		"Name" : "Zaanstad"
+	},
+	{
+		"Name" : "Â´s-Hertogenbosch"
+	},
+	{
+		"Name" : "Amersfoort"
+	},
+	{
+		"Name" : "Maastricht"
+	},
+	{
+		"Name" : "Dordrecht"
+	},
+	{
+		"Name" : "Leiden"
+	},
+	{
+		"Name" : "Haarlemmermeer"
+	},
+	{
+		"Name" : "Zoetermeer"
+	},
+	{
+		"Name" : "Emmen"
+	},
+	{
+		"Name" : "Zwolle"
+	},
+	{
+		"Name" : "Ede"
+	},
+	{
+		"Name" : "Delft"
+	},
+	{
+		"Name" : "Heerlen"
+	},
+	{
+		"Name" : "Alkmaar"
+	},
+	{
+		"Name" : "Willemstad"
+	},
+	{
+		"Name" : "Tirana"
+	},
+	{
+		"Name" : "Alger"
+	},
+	{
+		"Name" : "Oran"
+	},
+	{
+		"Name" : "Constantine"
+	},
+	{
+		"Name" : "Annaba"
+	},
+	{
+		"Name" : "Batna"
+	},
+	{
+		"Name" : "SÃ©tif"
+	},
+	{
+		"Name" : "Sidi Bel AbbÃ¨s"
+	},
+	{
+		"Name" : "Skikda"
+	},
+	{
+		"Name" : "Biskra"
+	},
+	{
+		"Name" : "Blida (el-Boulaida)"
+	},
+	{
+		"Name" : "BÃ©jaÃ¯a"
+	},
+	{
+		"Name" : "Mostaganem"
+	},
+	{
+		"Name" : "TÃ©bessa"
+	},
+	{
+		"Name" : "Tlemcen (Tilimsen)"
+	},
+	{
+		"Name" : "BÃ©char"
+	},
+	{
+		"Name" : "Tiaret"
+	},
+	{
+		"Name" : "Ech-Chleff (el-Asnam)"
+	},
+	{
+		"Name" : "GhardaÃ¯a"
+	},
+	{
+		"Name" : "Tafuna"
+	},
+	{
+		"Name" : "Fagatogo"
+	},
+	{
+		"Name" : "Andorra la Vella"
+	},
+	{
+		"Name" : "Luanda"
+	},
+	{
+		"Name" : "Huambo"
+	},
+	{
+		"Name" : "Lobito"
+	},
+	{
+		"Name" : "Benguela"
+	},
+	{
+		"Name" : "Namibe"
+	},
+	{
+		"Name" : "South Hill"
+	},
+	{
+		"Name" : "The Valley"
+	},
+	{
+		"Name" : "Saint JohnÂ´s"
+	},
+	{
+		"Name" : "Dubai"
+	},
+	{
+		"Name" : "Abu Dhabi"
+	},
+	{
+		"Name" : "Sharja"
+	},
+	{
+		"Name" : "al-Ayn"
+	},
+	{
+		"Name" : "Ajman"
+	},
+	{
+		"Name" : "Buenos Aires"
+	},
+	{
+		"Name" : "La Matanza"
+	},
+	{
+		"Name" : "CÃ³rdoba"
+	},
+	{
+		"Name" : "Rosario"
+	},
+	{
+		"Name" : "Lomas de Zamora"
+	},
+	{
+		"Name" : "Quilmes"
+	},
+	{
+		"Name" : "Almirante Brown"
+	},
+	{
+		"Name" : "La Plata"
+	},
+	{
+		"Name" : "Mar del Plata"
+	},
+	{
+		"Name" : "San Miguel de TucumÃ¡n"
+	},
+	{
+		"Name" : "LanÃºs"
+	},
+	{
+		"Name" : "Merlo"
+	},
+	{
+		"Name" : "General San MartÃ­n"
+	},
+	{
+		"Name" : "Salta"
+	},
+	{
+		"Name" : "Moreno"
+	},
+	{
+		"Name" : "Santa FÃ©"
+	},
+	{
+		"Name" : "Avellaneda"
+	},
+	{
+		"Name" : "Tres de Febrero"
+	},
+	{
+		"Name" : "MorÃ³n"
+	},
+	{
+		"Name" : "Florencio Varela"
+	},
+	{
+		"Name" : "San Isidro"
+	},
+	{
+		"Name" : "Tigre"
+	},
+	{
+		"Name" : "Malvinas Argentinas"
+	},
+	{
+		"Name" : "Vicente LÃ³pez"
+	},
+	{
+		"Name" : "Berazategui"
+	},
+	{
+		"Name" : "Corrientes"
+	},
+	{
+		"Name" : "San Miguel"
+	},
+	{
+		"Name" : "BahÃ­a Blanca"
+	},
+	{
+		"Name" : "Esteban EcheverrÃ­a"
+	},
+	{
+		"Name" : "Resistencia"
+	},
+	{
+		"Name" : "JosÃ© C. Paz"
+	},
+	{
+		"Name" : "ParanÃ¡"
+	},
+	{
+		"Name" : "Godoy Cruz"
+	},
+	{
+		"Name" : "Posadas"
+	},
+	{
+		"Name" : "GuaymallÃ©n"
+	},
+	{
+		"Name" : "Santiago del Estero"
+	},
+	{
+		"Name" : "San Salvador de Jujuy"
+	},
+	{
+		"Name" : "Hurlingham"
+	},
+	{
+		"Name" : "NeuquÃ©n"
+	},
+	{
+		"Name" : "ItuzaingÃ³"
+	},
+	{
+		"Name" : "San Fernando"
+	},
+	{
+		"Name" : "Formosa"
+	},
+	{
+		"Name" : "Las Heras"
+	},
+	{
+		"Name" : "La Rioja"
+	},
+	{
+		"Name" : "San Fernando del Valle de Cata"
+	},
+	{
+		"Name" : "RÃ­o Cuarto"
+	},
+	{
+		"Name" : "Comodoro Rivadavia"
+	},
+	{
+		"Name" : "Mendoza"
+	},
+	{
+		"Name" : "San NicolÃ¡s de los Arroyos"
+	},
+	{
+		"Name" : "San Juan"
+	},
+	{
+		"Name" : "Escobar"
+	},
+	{
+		"Name" : "Concordia"
+	},
+	{
+		"Name" : "Pilar"
+	},
+	{
+		"Name" : "San Luis"
+	},
+	{
+		"Name" : "Ezeiza"
+	},
+	{
+		"Name" : "San Rafael"
+	},
+	{
+		"Name" : "Tandil"
+	},
+	{
+		"Name" : "Yerevan"
+	},
+	{
+		"Name" : "Gjumri"
+	},
+	{
+		"Name" : "Vanadzor"
+	},
+	{
+		"Name" : "Oranjestad"
+	},
+	{
+		"Name" : "Sydney"
+	},
+	{
+		"Name" : "Melbourne"
+	},
+	{
+		"Name" : "Brisbane"
+	},
+	{
+		"Name" : "Perth"
+	},
+	{
+		"Name" : "Adelaide"
+	},
+	{
+		"Name" : "Canberra"
+	},
+	{
+		"Name" : "Gold Coast"
+	},
+	{
+		"Name" : "Newcastle"
+	},
+	{
+		"Name" : "Central Coast"
+	},
+	{
+		"Name" : "Wollongong"
+	},
+	{
+		"Name" : "Hobart"
+	},
+	{
+		"Name" : "Geelong"
+	},
+	{
+		"Name" : "Townsville"
+	},
+	{
+		"Name" : "Cairns"
+	},
+	{
+		"Name" : "Baku"
+	},
+	{
+		"Name" : "GÃ¤ncÃ¤"
+	},
+	{
+		"Name" : "Sumqayit"
+	},
+	{
+		"Name" : "MingÃ¤Ã§evir"
+	},
+	{
+		"Name" : "Nassau"
+	},
+	{
+		"Name" : "al-Manama"
+	},
+	{
+		"Name" : "Dhaka"
+	},
+	{
+		"Name" : "Chittagong"
+	},
+	{
+		"Name" : "Khulna"
+	},
+	{
+		"Name" : "Rajshahi"
+	},
+	{
+		"Name" : "Narayanganj"
+	},
+	{
+		"Name" : "Rangpur"
+	},
+	{
+		"Name" : "Mymensingh"
+	},
+	{
+		"Name" : "Barisal"
+	},
+	{
+		"Name" : "Tungi"
+	},
+	{
+		"Name" : "Jessore"
+	},
+	{
+		"Name" : "Comilla"
+	},
+	{
+		"Name" : "Nawabganj"
+	},
+	{
+		"Name" : "Dinajpur"
+	},
+	{
+		"Name" : "Bogra"
+	},
+	{
+		"Name" : "Sylhet"
+	},
+	{
+		"Name" : "Brahmanbaria"
+	},
+	{
+		"Name" : "Tangail"
+	},
+	{
+		"Name" : "Jamalpur"
+	},
+	{
+		"Name" : "Pabna"
+	},
+	{
+		"Name" : "Naogaon"
+	},
+	{
+		"Name" : "Sirajganj"
+	},
+	{
+		"Name" : "Narsinghdi"
+	},
+	{
+		"Name" : "Saidpur"
+	},
+	{
+		"Name" : "Gazipur"
+	},
+	{
+		"Name" : "Bridgetown"
+	},
+	{
+		"Name" : "Antwerpen"
+	},
+	{
+		"Name" : "Gent"
+	},
+	{
+		"Name" : "Charleroi"
+	},
+	{
+		"Name" : "LiÃ¨ge"
+	},
+	{
+		"Name" : "Bruxelles [Brussel]"
+	},
+	{
+		"Name" : "Brugge"
+	},
+	{
+		"Name" : "Schaerbeek"
+	},
+	{
+		"Name" : "Namur"
+	},
+	{
+		"Name" : "Mons"
+	},
+	{
+		"Name" : "Belize City"
+	},
+	{
+		"Name" : "Belmopan"
+	},
+	{
+		"Name" : "Cotonou"
+	},
+	{
+		"Name" : "Porto-Novo"
+	},
+	{
+		"Name" : "Djougou"
+	},
+	{
+		"Name" : "Parakou"
+	},
+	{
+		"Name" : "Saint George"
+	},
+	{
+		"Name" : "Hamilton"
+	},
+	{
+		"Name" : "Thimphu"
+	},
+	{
+		"Name" : "Santa Cruz de la Sierra"
+	},
+	{
+		"Name" : "La Paz"
+	},
+	{
+		"Name" : "El Alto"
+	},
+	{
+		"Name" : "Cochabamba"
+	},
+	{
+		"Name" : "Oruro"
+	},
+	{
+		"Name" : "Sucre"
+	},
+	{
+		"Name" : "PotosÃ­"
+	},
+	{
+		"Name" : "Tarija"
+	},
+	{
+		"Name" : "Sarajevo"
+	},
+	{
+		"Name" : "Banja Luka"
+	},
+	{
+		"Name" : "Zenica"
+	},
+	{
+		"Name" : "Gaborone"
+	},
+	{
+		"Name" : "Francistown"
+	},
+	{
+		"Name" : "SÃ£o Paulo"
+	},
+	{
+		"Name" : "Rio de Janeiro"
+	},
+	{
+		"Name" : "Salvador"
+	},
+	{
+		"Name" : "Belo Horizonte"
+	},
+	{
+		"Name" : "Fortaleza"
+	},
+	{
+		"Name" : "BrasÃ­lia"
+	},
+	{
+		"Name" : "Curitiba"
+	},
+	{
+		"Name" : "Recife"
+	},
+	{
+		"Name" : "Porto Alegre"
+	},
+	{
+		"Name" : "Manaus"
+	},
+	{
+		"Name" : "BelÃ©m"
+	},
+	{
+		"Name" : "Guarulhos"
+	},
+	{
+		"Name" : "GoiÃ¢nia"
+	},
+	{
+		"Name" : "Campinas"
+	},
+	{
+		"Name" : "SÃ£o GonÃ§alo"
+	},
+	{
+		"Name" : "Nova IguaÃ§u"
+	},
+	{
+		"Name" : "SÃ£o LuÃ­s"
+	},
+	{
+		"Name" : "MaceiÃ³"
+	},
+	{
+		"Name" : "Duque de Caxias"
+	},
+	{
+		"Name" : "SÃ£o Bernardo do Campo"
+	},
+	{
+		"Name" : "Teresina"
+	},
+	{
+		"Name" : "Natal"
+	},
+	{
+		"Name" : "Osasco"
+	},
+	{
+		"Name" : "Campo Grande"
+	},
+	{
+		"Name" : "Santo AndrÃ©"
+	},
+	{
+		"Name" : "JoÃ£o Pessoa"
+	},
+	{
+		"Name" : "JaboatÃ£o dos Guararapes"
+	},
+	{
+		"Name" : "Contagem"
+	},
+	{
+		"Name" : "SÃ£o JosÃ© dos Campos"
+	},
+	{
+		"Name" : "UberlÃ¢ndia"
+	},
+	{
+		"Name" : "Feira de Santana"
+	},
+	{
+		"Name" : "RibeirÃ£o Preto"
+	},
+	{
+		"Name" : "Sorocaba"
+	},
+	{
+		"Name" : "NiterÃ³i"
+	},
+	{
+		"Name" : "CuiabÃ¡"
+	},
+	{
+		"Name" : "Juiz de Fora"
+	},
+	{
+		"Name" : "Aracaju"
+	},
+	{
+		"Name" : "SÃ£o JoÃ£o de Meriti"
+	},
+	{
+		"Name" : "Londrina"
+	},
+	{
+		"Name" : "Joinville"
+	},
+	{
+		"Name" : "Belford Roxo"
+	},
+	{
+		"Name" : "Santos"
+	},
+	{
+		"Name" : "Ananindeua"
+	},
+	{
+		"Name" : "Campos dos Goytacazes"
+	},
+	{
+		"Name" : "MauÃ¡"
+	},
+	{
+		"Name" : "CarapicuÃ­ba"
+	},
+	{
+		"Name" : "Olinda"
+	},
+	{
+		"Name" : "Campina Grande"
+	},
+	{
+		"Name" : "SÃ£o JosÃ© do Rio Preto"
+	},
+	{
+		"Name" : "Caxias do Sul"
+	},
+	{
+		"Name" : "Moji das Cruzes"
+	},
+	{
+		"Name" : "Diadema"
+	},
+	{
+		"Name" : "Aparecida de GoiÃ¢nia"
+	},
+	{
+		"Name" : "Piracicaba"
+	},
+	{
+		"Name" : "Cariacica"
+	},
+	{
+		"Name" : "Vila Velha"
+	},
+	{
+		"Name" : "Pelotas"
+	},
+	{
+		"Name" : "Bauru"
+	},
+	{
+		"Name" : "Porto Velho"
+	},
+	{
+		"Name" : "Serra"
+	},
+	{
+		"Name" : "Betim"
+	},
+	{
+		"Name" : "JundÃ­aÃ­"
+	},
+	{
+		"Name" : "Canoas"
+	},
+	{
+		"Name" : "Franca"
+	},
+	{
+		"Name" : "SÃ£o Vicente"
+	},
+	{
+		"Name" : "MaringÃ¡"
+	},
+	{
+		"Name" : "Montes Claros"
+	},
+	{
+		"Name" : "AnÃ¡polis"
+	},
+	{
+		"Name" : "FlorianÃ³polis"
+	},
+	{
+		"Name" : "PetrÃ³polis"
+	},
+	{
+		"Name" : "Itaquaquecetuba"
+	},
+	{
+		"Name" : "VitÃ³ria"
+	},
+	{
+		"Name" : "Ponta Grossa"
+	},
+	{
+		"Name" : "Rio Branco"
+	},
+	{
+		"Name" : "Foz do IguaÃ§u"
+	},
+	{
+		"Name" : "MacapÃ¡"
+	},
+	{
+		"Name" : "IlhÃ©us"
+	},
+	{
+		"Name" : "VitÃ³ria da Conquista"
+	},
+	{
+		"Name" : "Uberaba"
+	},
+	{
+		"Name" : "Paulista"
+	},
+	{
+		"Name" : "Limeira"
+	},
+	{
+		"Name" : "Blumenau"
+	},
+	{
+		"Name" : "Caruaru"
+	},
+	{
+		"Name" : "SantarÃ©m"
+	},
+	{
+		"Name" : "Volta Redonda"
+	},
+	{
+		"Name" : "Novo Hamburgo"
+	},
+	{
+		"Name" : "Caucaia"
+	},
+	{
+		"Name" : "Santa Maria"
+	},
+	{
+		"Name" : "Cascavel"
+	},
+	{
+		"Name" : "GuarujÃ¡"
+	},
+	{
+		"Name" : "RibeirÃ£o das Neves"
+	},
+	{
+		"Name" : "Governador Valadares"
+	},
+	{
+		"Name" : "TaubatÃ©"
+	},
+	{
+		"Name" : "Imperatriz"
+	},
+	{
+		"Name" : "GravataÃ­"
+	},
+	{
+		"Name" : "Embu"
+	},
+	{
+		"Name" : "MossorÃ³"
+	},
+	{
+		"Name" : "VÃ¡rzea Grande"
+	},
+	{
+		"Name" : "Petrolina"
+	},
+	{
+		"Name" : "Barueri"
+	},
+	{
+		"Name" : "ViamÃ£o"
+	},
+	{
+		"Name" : "Ipatinga"
+	},
+	{
+		"Name" : "Juazeiro"
+	},
+	{
+		"Name" : "Juazeiro do Norte"
+	},
+	{
+		"Name" : "TaboÃ£o da Serra"
+	},
+	{
+		"Name" : "SÃ£o JosÃ© dos Pinhais"
+	},
+	{
+		"Name" : "MagÃ©"
+	},
+	{
+		"Name" : "Suzano"
+	},
+	{
+		"Name" : "SÃ£o Leopoldo"
+	},
+	{
+		"Name" : "MarÃ­lia"
+	},
+	{
+		"Name" : "SÃ£o Carlos"
+	},
+	{
+		"Name" : "SumarÃ©"
+	},
+	{
+		"Name" : "Presidente Prudente"
+	},
+	{
+		"Name" : "DivinÃ³polis"
+	},
+	{
+		"Name" : "Sete Lagoas"
+	},
+	{
+		"Name" : "Rio Grande"
+	},
+	{
+		"Name" : "Itabuna"
+	},
+	{
+		"Name" : "JequiÃ©"
+	},
+	{
+		"Name" : "Arapiraca"
+	},
+	{
+		"Name" : "Colombo"
+	},
+	{
+		"Name" : "Americana"
+	},
+	{
+		"Name" : "Alvorada"
+	},
+	{
+		"Name" : "Araraquara"
+	},
+	{
+		"Name" : "ItaboraÃ­"
+	},
+	{
+		"Name" : "Santa BÃ¡rbara dÂ´Oeste"
+	},
+	{
+		"Name" : "Nova Friburgo"
+	},
+	{
+		"Name" : "JacareÃ­"
+	},
+	{
+		"Name" : "AraÃ§atuba"
+	},
+	{
+		"Name" : "Barra Mansa"
+	},
+	{
+		"Name" : "Praia Grande"
+	},
+	{
+		"Name" : "MarabÃ¡"
+	},
+	{
+		"Name" : "CriciÃºma"
+	},
+	{
+		"Name" : "Boa Vista"
+	},
+	{
+		"Name" : "Passo Fundo"
+	},
+	{
+		"Name" : "Dourados"
+	},
+	{
+		"Name" : "Santa Luzia"
+	},
+	{
+		"Name" : "Rio Claro"
+	},
+	{
+		"Name" : "MaracanaÃº"
+	},
+	{
+		"Name" : "Guarapuava"
+	},
+	{
+		"Name" : "RondonÃ³polis"
+	},
+	{
+		"Name" : "SÃ£o JosÃ©"
+	},
+	{
+		"Name" : "Cachoeiro de Itapemirim"
+	},
+	{
+		"Name" : "NilÃ³polis"
+	},
+	{
+		"Name" : "Itapevi"
+	},
+	{
+		"Name" : "Cabo de Santo Agostinho"
+	},
+	{
+		"Name" : "CamaÃ§ari"
+	},
+	{
+		"Name" : "Sobral"
+	},
+	{
+		"Name" : "ItajaÃ­"
+	},
+	{
+		"Name" : "ChapecÃ³"
+	},
+	{
+		"Name" : "Cotia"
+	},
+	{
+		"Name" : "Lages"
+	},
+	{
+		"Name" : "Ferraz de Vasconcelos"
+	},
+	{
+		"Name" : "Indaiatuba"
+	},
+	{
+		"Name" : "HortolÃ¢ndia"
+	},
+	{
+		"Name" : "Caxias"
+	},
+	{
+		"Name" : "SÃ£o Caetano do Sul"
+	},
+	{
+		"Name" : "Itu"
+	},
+	{
+		"Name" : "Nossa Senhora do Socorro"
+	},
+	{
+		"Name" : "ParnaÃ­ba"
+	},
+	{
+		"Name" : "PoÃ§os de Caldas"
+	},
+	{
+		"Name" : "TeresÃ³polis"
+	},
+	{
+		"Name" : "Barreiras"
+	},
+	{
+		"Name" : "Castanhal"
+	},
+	{
+		"Name" : "Alagoinhas"
+	},
+	{
+		"Name" : "Itapecerica da Serra"
+	},
+	{
+		"Name" : "Uruguaiana"
+	},
+	{
+		"Name" : "ParanaguÃ¡"
+	},
+	{
+		"Name" : "IbiritÃ©"
+	},
+	{
+		"Name" : "Timon"
+	},
+	{
+		"Name" : "LuziÃ¢nia"
+	},
+	{
+		"Name" : "MacaÃ©"
+	},
+	{
+		"Name" : "TeÃ³filo Otoni"
+	},
+	{
+		"Name" : "Moji-GuaÃ§u"
+	},
+	{
+		"Name" : "Palmas"
+	},
+	{
+		"Name" : "Pindamonhangaba"
+	},
+	{
+		"Name" : "Francisco Morato"
+	},
+	{
+		"Name" : "BagÃ©"
+	},
+	{
+		"Name" : "Sapucaia do Sul"
+	},
+	{
+		"Name" : "Cabo Frio"
+	},
+	{
+		"Name" : "Itapetininga"
+	},
+	{
+		"Name" : "Patos de Minas"
+	},
+	{
+		"Name" : "Camaragibe"
+	},
+	{
+		"Name" : "BraganÃ§a Paulista"
+	},
+	{
+		"Name" : "Queimados"
+	},
+	{
+		"Name" : "AraguaÃ­na"
+	},
+	{
+		"Name" : "Garanhuns"
+	},
+	{
+		"Name" : "VitÃ³ria de Santo AntÃ£o"
+	},
+	{
+		"Name" : "Santa Rita"
+	},
+	{
+		"Name" : "Barbacena"
+	},
+	{
+		"Name" : "Abaetetuba"
+	},
+	{
+		"Name" : "JaÃº"
+	},
+	{
+		"Name" : "Lauro de Freitas"
+	},
+	{
+		"Name" : "Franco da Rocha"
+	},
+	{
+		"Name" : "Teixeira de Freitas"
+	},
+	{
+		"Name" : "Varginha"
+	},
+	{
+		"Name" : "RibeirÃ£o Pires"
+	},
+	{
+		"Name" : "SabarÃ¡"
+	},
+	{
+		"Name" : "Catanduva"
+	},
+	{
+		"Name" : "Rio Verde"
+	},
+	{
+		"Name" : "Botucatu"
+	},
+	{
+		"Name" : "Colatina"
+	},
+	{
+		"Name" : "Santa Cruz do Sul"
+	},
+	{
+		"Name" : "Linhares"
+	},
+	{
+		"Name" : "Apucarana"
+	},
+	{
+		"Name" : "Barretos"
+	},
+	{
+		"Name" : "GuaratinguetÃ¡"
+	},
+	{
+		"Name" : "Cachoeirinha"
+	},
+	{
+		"Name" : "CodÃ³"
+	},
+	{
+		"Name" : "JaraguÃ¡ do Sul"
+	},
+	{
+		"Name" : "CubatÃ£o"
+	},
+	{
+		"Name" : "Itabira"
+	},
+	{
+		"Name" : "Itaituba"
+	},
+	{
+		"Name" : "Araras"
+	},
+	{
+		"Name" : "Resende"
+	},
+	{
+		"Name" : "Atibaia"
+	},
+	{
+		"Name" : "Pouso Alegre"
+	},
+	{
+		"Name" : "Toledo"
+	},
+	{
+		"Name" : "Crato"
+	},
+	{
+		"Name" : "Passos"
+	},
+	{
+		"Name" : "Araguari"
+	},
+	{
+		"Name" : "SÃ£o JosÃ© de Ribamar"
+	},
+	{
+		"Name" : "Pinhais"
+	},
+	{
+		"Name" : "SertÃ£ozinho"
+	},
+	{
+		"Name" : "Conselheiro Lafaiete"
+	},
+	{
+		"Name" : "Paulo Afonso"
+	},
+	{
+		"Name" : "Angra dos Reis"
+	},
+	{
+		"Name" : "EunÃ¡polis"
+	},
+	{
+		"Name" : "Salto"
+	},
+	{
+		"Name" : "Ourinhos"
+	},
+	{
+		"Name" : "Parnamirim"
+	},
+	{
+		"Name" : "Jacobina"
+	},
+	{
+		"Name" : "Coronel Fabriciano"
+	},
+	{
+		"Name" : "Birigui"
+	},
+	{
+		"Name" : "TatuÃ­"
+	},
+	{
+		"Name" : "Ji-ParanÃ¡"
+	},
+	{
+		"Name" : "Bacabal"
+	},
+	{
+		"Name" : "CametÃ¡"
+	},
+	{
+		"Name" : "GuaÃ­ba"
+	},
+	{
+		"Name" : "SÃ£o LourenÃ§o da Mata"
+	},
+	{
+		"Name" : "Santana do Livramento"
+	},
+	{
+		"Name" : "Votorantim"
+	},
+	{
+		"Name" : "Campo Largo"
+	},
+	{
+		"Name" : "Patos"
+	},
+	{
+		"Name" : "Ituiutaba"
+	},
+	{
+		"Name" : "CorumbÃ¡"
+	},
+	{
+		"Name" : "PalhoÃ§a"
+	},
+	{
+		"Name" : "Barra do PiraÃ­"
+	},
+	{
+		"Name" : "Bento GonÃ§alves"
+	},
+	{
+		"Name" : "PoÃ¡"
+	},
+	{
+		"Name" : "Ãguas Lindas de GoiÃ¡s"
+	},
+	{
+		"Name" : "London"
+	},
+	{
+		"Name" : "Birmingham"
+	},
+	{
+		"Name" : "Glasgow"
+	},
+	{
+		"Name" : "Liverpool"
+	},
+	{
+		"Name" : "Edinburgh"
+	},
+	{
+		"Name" : "Sheffield"
+	},
+	{
+		"Name" : "Manchester"
+	},
+	{
+		"Name" : "Leeds"
+	},
+	{
+		"Name" : "Bristol"
+	},
+	{
+		"Name" : "Cardiff"
+	},
+	{
+		"Name" : "Coventry"
+	},
+	{
+		"Name" : "Leicester"
+	},
+	{
+		"Name" : "Bradford"
+	},
+	{
+		"Name" : "Belfast"
+	},
+	{
+		"Name" : "Nottingham"
+	},
+	{
+		"Name" : "Kingston upon Hull"
+	},
+	{
+		"Name" : "Plymouth"
+	},
+	{
+		"Name" : "Stoke-on-Trent"
+	},
+	{
+		"Name" : "Wolverhampton"
+	},
+	{
+		"Name" : "Derby"
+	},
+	{
+		"Name" : "Swansea"
+	},
+	{
+		"Name" : "Southampton"
+	},
+	{
+		"Name" : "Aberdeen"
+	},
+	{
+		"Name" : "Northampton"
+	},
+	{
+		"Name" : "Dudley"
+	},
+	{
+		"Name" : "Portsmouth"
+	},
+	{
+		"Name" : "Newcastle upon Tyne"
+	},
+	{
+		"Name" : "Sunderland"
+	},
+	{
+		"Name" : "Luton"
+	},
+	{
+		"Name" : "Swindon"
+	},
+	{
+		"Name" : "Southend-on-Sea"
+	},
+	{
+		"Name" : "Walsall"
+	},
+	{
+		"Name" : "Bournemouth"
+	},
+	{
+		"Name" : "Peterborough"
+	},
+	{
+		"Name" : "Brighton"
+	},
+	{
+		"Name" : "Blackpool"
+	},
+	{
+		"Name" : "Dundee"
+	},
+	{
+		"Name" : "West Bromwich"
+	},
+	{
+		"Name" : "Reading"
+	},
+	{
+		"Name" : "Oldbury/Smethwick (Warley)"
+	},
+	{
+		"Name" : "Middlesbrough"
+	},
+	{
+		"Name" : "Huddersfield"
+	},
+	{
+		"Name" : "Oxford"
+	},
+	{
+		"Name" : "Poole"
+	},
+	{
+		"Name" : "Bolton"
+	},
+	{
+		"Name" : "Blackburn"
+	},
+	{
+		"Name" : "Newport"
+	},
+	{
+		"Name" : "Preston"
+	},
+	{
+		"Name" : "Stockport"
+	},
+	{
+		"Name" : "Norwich"
+	},
+	{
+		"Name" : "Rotherham"
+	},
+	{
+		"Name" : "Cambridge"
+	},
+	{
+		"Name" : "Watford"
+	},
+	{
+		"Name" : "Ipswich"
+	},
+	{
+		"Name" : "Slough"
+	},
+	{
+		"Name" : "Exeter"
+	},
+	{
+		"Name" : "Cheltenham"
+	},
+	{
+		"Name" : "Gloucester"
+	},
+	{
+		"Name" : "Saint Helens"
+	},
+	{
+		"Name" : "Sutton Coldfield"
+	},
+	{
+		"Name" : "York"
+	},
+	{
+		"Name" : "Oldham"
+	},
+	{
+		"Name" : "Basildon"
+	},
+	{
+		"Name" : "Worthing"
+	},
+	{
+		"Name" : "Chelmsford"
+	},
+	{
+		"Name" : "Colchester"
+	},
+	{
+		"Name" : "Crawley"
+	},
+	{
+		"Name" : "Gillingham"
+	},
+	{
+		"Name" : "Solihull"
+	},
+	{
+		"Name" : "Rochdale"
+	},
+	{
+		"Name" : "Birkenhead"
+	},
+	{
+		"Name" : "Worcester"
+	},
+	{
+		"Name" : "Hartlepool"
+	},
+	{
+		"Name" : "Halifax"
+	},
+	{
+		"Name" : "Woking/Byfleet"
+	},
+	{
+		"Name" : "Southport"
+	},
+	{
+		"Name" : "Maidstone"
+	},
+	{
+		"Name" : "Eastbourne"
+	},
+	{
+		"Name" : "Grimsby"
+	},
+	{
+		"Name" : "Saint Helier"
+	},
+	{
+		"Name" : "Douglas"
+	},
+	{
+		"Name" : "Road Town"
+	},
+	{
+		"Name" : "Bandar Seri Begawan"
+	},
+	{
+		"Name" : "Sofija"
+	},
+	{
+		"Name" : "Plovdiv"
+	},
+	{
+		"Name" : "Varna"
+	},
+	{
+		"Name" : "Burgas"
+	},
+	{
+		"Name" : "Ruse"
+	},
+	{
+		"Name" : "Stara Zagora"
+	},
+	{
+		"Name" : "Pleven"
+	},
+	{
+		"Name" : "Sliven"
+	},
+	{
+		"Name" : "Dobric"
+	},
+	{
+		"Name" : "ÂŠumen"
+	},
+	{
+		"Name" : "Ouagadougou"
+	},
+	{
+		"Name" : "Bobo-Dioulasso"
+	},
+	{
+		"Name" : "Koudougou"
+	},
+	{
+		"Name" : "Bujumbura"
+	},
+	{
+		"Name" : "George Town"
+	},
+	{
+		"Name" : "Santiago de Chile"
+	},
+	{
+		"Name" : "Puente Alto"
+	},
+	{
+		"Name" : "ViÃ±a del Mar"
+	},
+	{
+		"Name" : "ValparaÃ­so"
+	},
+	{
+		"Name" : "Talcahuano"
+	},
+	{
+		"Name" : "Antofagasta"
+	},
+	{
+		"Name" : "San Bernardo"
+	},
+	{
+		"Name" : "Temuco"
+	},
+	{
+		"Name" : "ConcepciÃ³n"
+	},
+	{
+		"Name" : "Rancagua"
+	},
+	{
+		"Name" : "Arica"
+	},
+	{
+		"Name" : "Talca"
+	},
+	{
+		"Name" : "ChillÃ¡n"
+	},
+	{
+		"Name" : "Iquique"
+	},
+	{
+		"Name" : "Los Angeles"
+	},
+	{
+		"Name" : "Puerto Montt"
+	},
+	{
+		"Name" : "Coquimbo"
+	},
+	{
+		"Name" : "Osorno"
+	},
+	{
+		"Name" : "La Serena"
+	},
+	{
+		"Name" : "Calama"
+	},
+	{
+		"Name" : "Valdivia"
+	},
+	{
+		"Name" : "Punta Arenas"
+	},
+	{
+		"Name" : "CopiapÃ³"
+	},
+	{
+		"Name" : "QuilpuÃ©"
+	},
+	{
+		"Name" : "CuricÃ³"
+	},
+	{
+		"Name" : "Ovalle"
+	},
+	{
+		"Name" : "Coronel"
+	},
+	{
+		"Name" : "San Pedro de la Paz"
+	},
+	{
+		"Name" : "Melipilla"
+	},
+	{
+		"Name" : "Avarua"
+	},
+	{
+		"Name" : "San JosÃ©"
+	},
+	{
+		"Name" : "Djibouti"
+	},
+	{
+		"Name" : "Roseau"
+	},
+	{
+		"Name" : "Santo Domingo de GuzmÃ¡n"
+	},
+	{
+		"Name" : "Santiago de los Caballeros"
+	},
+	{
+		"Name" : "La Romana"
+	},
+	{
+		"Name" : "San Pedro de MacorÃ­s"
+	},
+	{
+		"Name" : "San Francisco de MacorÃ­s"
+	},
+	{
+		"Name" : "San Felipe de Puerto Plata"
+	},
+	{
+		"Name" : "Guayaquil"
+	},
+	{
+		"Name" : "Quito"
+	},
+	{
+		"Name" : "Cuenca"
+	},
+	{
+		"Name" : "Machala"
+	},
+	{
+		"Name" : "Santo Domingo de los Colorados"
+	},
+	{
+		"Name" : "Portoviejo"
+	},
+	{
+		"Name" : "Ambato"
+	},
+	{
+		"Name" : "Manta"
+	},
+	{
+		"Name" : "Duran [Eloy Alfaro]"
+	},
+	{
+		"Name" : "Ibarra"
+	},
+	{
+		"Name" : "Quevedo"
+	},
+	{
+		"Name" : "Milagro"
+	},
+	{
+		"Name" : "Loja"
+	},
+	{
+		"Name" : "RÃ­obamba"
+	},
+	{
+		"Name" : "Esmeraldas"
+	},
+	{
+		"Name" : "Cairo"
+	},
+	{
+		"Name" : "Alexandria"
+	},
+	{
+		"Name" : "Giza"
+	},
+	{
+		"Name" : "Shubra al-Khayma"
+	},
+	{
+		"Name" : "Port Said"
+	},
+	{
+		"Name" : "Suez"
+	},
+	{
+		"Name" : "al-Mahallat al-Kubra"
+	},
+	{
+		"Name" : "Tanta"
+	},
+	{
+		"Name" : "al-Mansura"
+	},
+	{
+		"Name" : "Luxor"
+	},
+	{
+		"Name" : "Asyut"
+	},
+	{
+		"Name" : "Bahtim"
+	},
+	{
+		"Name" : "Zagazig"
+	},
+	{
+		"Name" : "al-Faiyum"
+	},
+	{
+		"Name" : "Ismailia"
+	},
+	{
+		"Name" : "Kafr al-Dawwar"
+	},
+	{
+		"Name" : "Assuan"
+	},
+	{
+		"Name" : "Damanhur"
+	},
+	{
+		"Name" : "al-Minya"
+	},
+	{
+		"Name" : "Bani Suwayf"
+	},
+	{
+		"Name" : "Qina"
+	},
+	{
+		"Name" : "Sawhaj"
+	},
+	{
+		"Name" : "Shibin al-Kawm"
+	},
+	{
+		"Name" : "Bulaq al-Dakrur"
+	},
+	{
+		"Name" : "Banha"
+	},
+	{
+		"Name" : "Warraq al-Arab"
+	},
+	{
+		"Name" : "Kafr al-Shaykh"
+	},
+	{
+		"Name" : "Mallawi"
+	},
+	{
+		"Name" : "Bilbays"
+	},
+	{
+		"Name" : "Mit Ghamr"
+	},
+	{
+		"Name" : "al-Arish"
+	},
+	{
+		"Name" : "Talkha"
+	},
+	{
+		"Name" : "Qalyub"
+	},
+	{
+		"Name" : "Jirja"
+	},
+	{
+		"Name" : "Idfu"
+	},
+	{
+		"Name" : "al-Hawamidiya"
+	},
+	{
+		"Name" : "Disuq"
+	},
+	{
+		"Name" : "San Salvador"
+	},
+	{
+		"Name" : "Santa Ana"
+	},
+	{
+		"Name" : "Mejicanos"
+	},
+	{
+		"Name" : "Soyapango"
+	},
+	{
+		"Name" : "San Miguel"
+	},
+	{
+		"Name" : "Nueva San Salvador"
+	},
+	{
+		"Name" : "Apopa"
+	},
+	{
+		"Name" : "Asmara"
+	},
+	{
+		"Name" : "Madrid"
+	},
+	{
+		"Name" : "Barcelona"
+	},
+	{
+		"Name" : "Valencia"
+	},
+	{
+		"Name" : "Sevilla"
+	},
+	{
+		"Name" : "Zaragoza"
+	},
+	{
+		"Name" : "MÃ¡laga"
+	},
+	{
+		"Name" : "Bilbao"
+	},
+	{
+		"Name" : "Las Palmas de Gran Canaria"
+	},
+	{
+		"Name" : "Murcia"
+	},
+	{
+		"Name" : "Palma de Mallorca"
+	},
+	{
+		"Name" : "Valladolid"
+	},
+	{
+		"Name" : "CÃ³rdoba"
+	},
+	{
+		"Name" : "Vigo"
+	},
+	{
+		"Name" : "Alicante [Alacant]"
+	},
+	{
+		"Name" : "GijÃ³n"
+	},
+	{
+		"Name" : "LÂ´Hospitalet de Llobregat"
+	},
+	{
+		"Name" : "Granada"
+	},
+	{
+		"Name" : "A CoruÃ±a (La CoruÃ±a)"
+	},
+	{
+		"Name" : "Vitoria-Gasteiz"
+	},
+	{
+		"Name" : "Santa Cruz de Tenerife"
+	},
+	{
+		"Name" : "Badalona"
+	},
+	{
+		"Name" : "Oviedo"
+	},
+	{
+		"Name" : "MÃ³stoles"
+	},
+	{
+		"Name" : "Elche [Elx]"
+	},
+	{
+		"Name" : "Sabadell"
+	},
+	{
+		"Name" : "Santander"
+	},
+	{
+		"Name" : "Jerez de la Frontera"
+	},
+	{
+		"Name" : "Pamplona [IruÃ±a]"
+	},
+	{
+		"Name" : "Donostia-San SebastiÃ¡n"
+	},
+	{
+		"Name" : "Cartagena"
+	},
+	{
+		"Name" : "LeganÃ©s"
+	},
+	{
+		"Name" : "Fuenlabrada"
+	},
+	{
+		"Name" : "AlmerÃ­a"
+	},
+	{
+		"Name" : "Terrassa"
+	},
+	{
+		"Name" : "AlcalÃ¡ de Henares"
+	},
+	{
+		"Name" : "Burgos"
+	},
+	{
+		"Name" : "Salamanca"
+	},
+	{
+		"Name" : "Albacete"
+	},
+	{
+		"Name" : "Getafe"
+	},
+	{
+		"Name" : "CÃ¡diz"
+	},
+	{
+		"Name" : "AlcorcÃ³n"
+	},
+	{
+		"Name" : "Huelva"
+	},
+	{
+		"Name" : "LeÃ³n"
+	},
+	{
+		"Name" : "CastellÃ³n de la Plana [Castell"
+	},
+	{
+		"Name" : "Badajoz"
+	},
+	{
+		"Name" : "[San CristÃ³bal de] la Laguna"
+	},
+	{
+		"Name" : "LogroÃ±o"
+	},
+	{
+		"Name" : "Santa Coloma de Gramenet"
+	},
+	{
+		"Name" : "Tarragona"
+	},
+	{
+		"Name" : "Lleida (LÃ©rida)"
+	},
+	{
+		"Name" : "JaÃ©n"
+	},
+	{
+		"Name" : "Ourense (Orense)"
+	},
+	{
+		"Name" : "MatarÃ³"
+	},
+	{
+		"Name" : "Algeciras"
+	},
+	{
+		"Name" : "Marbella"
+	},
+	{
+		"Name" : "Barakaldo"
+	},
+	{
+		"Name" : "Dos Hermanas"
+	},
+	{
+		"Name" : "Santiago de Compostela"
+	},
+	{
+		"Name" : "TorrejÃ³n de Ardoz"
+	},
+	{
+		"Name" : "Cape Town"
+	},
+	{
+		"Name" : "Soweto"
+	},
+	{
+		"Name" : "Johannesburg"
+	},
+	{
+		"Name" : "Port Elizabeth"
+	},
+	{
+		"Name" : "Pretoria"
+	},
+	{
+		"Name" : "Inanda"
+	},
+	{
+		"Name" : "Durban"
+	},
+	{
+		"Name" : "Vanderbijlpark"
+	},
+	{
+		"Name" : "Kempton Park"
+	},
+	{
+		"Name" : "Alberton"
+	},
+	{
+		"Name" : "Pinetown"
+	},
+	{
+		"Name" : "Pietermaritzburg"
+	},
+	{
+		"Name" : "Benoni"
+	},
+	{
+		"Name" : "Randburg"
+	},
+	{
+		"Name" : "Umlazi"
+	},
+	{
+		"Name" : "Bloemfontein"
+	},
+	{
+		"Name" : "Vereeniging"
+	},
+	{
+		"Name" : "Wonderboom"
+	},
+	{
+		"Name" : "Roodepoort"
+	},
+	{
+		"Name" : "Boksburg"
+	},
+	{
+		"Name" : "Klerksdorp"
+	},
+	{
+		"Name" : "Soshanguve"
+	},
+	{
+		"Name" : "Newcastle"
+	},
+	{
+		"Name" : "East London"
+	},
+	{
+		"Name" : "Welkom"
+	},
+	{
+		"Name" : "Kimberley"
+	},
+	{
+		"Name" : "Uitenhage"
+	},
+	{
+		"Name" : "Chatsworth"
+	},
+	{
+		"Name" : "Mdantsane"
+	},
+	{
+		"Name" : "Krugersdorp"
+	},
+	{
+		"Name" : "Botshabelo"
+	},
+	{
+		"Name" : "Brakpan"
+	},
+	{
+		"Name" : "Witbank"
+	},
+	{
+		"Name" : "Oberholzer"
+	},
+	{
+		"Name" : "Germiston"
+	},
+	{
+		"Name" : "Springs"
+	},
+	{
+		"Name" : "Westonaria"
+	},
+	{
+		"Name" : "Randfontein"
+	},
+	{
+		"Name" : "Paarl"
+	},
+	{
+		"Name" : "Potchefstroom"
+	},
+	{
+		"Name" : "Rustenburg"
+	},
+	{
+		"Name" : "Nigel"
+	},
+	{
+		"Name" : "George"
+	},
+	{
+		"Name" : "Ladysmith"
+	},
+	{
+		"Name" : "Addis Abeba"
+	},
+	{
+		"Name" : "Dire Dawa"
+	},
+	{
+		"Name" : "Nazret"
+	},
+	{
+		"Name" : "Gonder"
+	},
+	{
+		"Name" : "Dese"
+	},
+	{
+		"Name" : "Mekele"
+	},
+	{
+		"Name" : "Bahir Dar"
+	},
+	{
+		"Name" : "Stanley"
+	},
+	{
+		"Name" : "Suva"
+	},
+	{
+		"Name" : "Quezon"
+	},
+	{
+		"Name" : "Manila"
+	},
+	{
+		"Name" : "Kalookan"
+	},
+	{
+		"Name" : "Davao"
+	},
+	{
+		"Name" : "Cebu"
+	},
+	{
+		"Name" : "Zamboanga"
+	},
+	{
+		"Name" : "Pasig"
+	},
+	{
+		"Name" : "Valenzuela"
+	},
+	{
+		"Name" : "Las PiÃ±as"
+	},
+	{
+		"Name" : "Antipolo"
+	},
+	{
+		"Name" : "Taguig"
+	},
+	{
+		"Name" : "Cagayan de Oro"
+	},
+	{
+		"Name" : "ParaÃ±aque"
+	},
+	{
+		"Name" : "Makati"
+	},
+	{
+		"Name" : "Bacolod"
+	},
+	{
+		"Name" : "General Santos"
+	},
+	{
+		"Name" : "Marikina"
+	},
+	{
+		"Name" : "DasmariÃ±as"
+	},
+	{
+		"Name" : "Muntinlupa"
+	},
+	{
+		"Name" : "Iloilo"
+	},
+	{
+		"Name" : "Pasay"
+	},
+	{
+		"Name" : "Malabon"
+	},
+	{
+		"Name" : "San JosÃ© del Monte"
+	},
+	{
+		"Name" : "Bacoor"
+	},
+	{
+		"Name" : "Iligan"
+	},
+	{
+		"Name" : "Calamba"
+	},
+	{
+		"Name" : "Mandaluyong"
+	},
+	{
+		"Name" : "Butuan"
+	},
+	{
+		"Name" : "Angeles"
+	},
+	{
+		"Name" : "Tarlac"
+	},
+	{
+		"Name" : "Mandaue"
+	},
+	{
+		"Name" : "Baguio"
+	},
+	{
+		"Name" : "Batangas"
+	},
+	{
+		"Name" : "Cainta"
+	},
+	{
+		"Name" : "San Pedro"
+	},
+	{
+		"Name" : "Navotas"
+	},
+	{
+		"Name" : "Cabanatuan"
+	},
+	{
+		"Name" : "San Fernando"
+	},
+	{
+		"Name" : "Lipa"
+	},
+	{
+		"Name" : "Lapu-Lapu"
+	},
+	{
+		"Name" : "San Pablo"
+	},
+	{
+		"Name" : "BiÃ±an"
+	},
+	{
+		"Name" : "Taytay"
+	},
+	{
+		"Name" : "Lucena"
+	},
+	{
+		"Name" : "Imus"
+	},
+	{
+		"Name" : "Olongapo"
+	},
+	{
+		"Name" : "Binangonan"
+	},
+	{
+		"Name" : "Santa Rosa"
+	},
+	{
+		"Name" : "Tagum"
+	},
+	{
+		"Name" : "Tacloban"
+	},
+	{
+		"Name" : "Malolos"
+	},
+	{
+		"Name" : "Mabalacat"
+	},
+	{
+		"Name" : "Cotabato"
+	},
+	{
+		"Name" : "Meycauayan"
+	},
+	{
+		"Name" : "Puerto Princesa"
+	},
+	{
+		"Name" : "Legazpi"
+	},
+	{
+		"Name" : "Silang"
+	},
+	{
+		"Name" : "Ormoc"
+	},
+	{
+		"Name" : "San Carlos"
+	},
+	{
+		"Name" : "Kabankalan"
+	},
+	{
+		"Name" : "Talisay"
+	},
+	{
+		"Name" : "Valencia"
+	},
+	{
+		"Name" : "Calbayog"
+	},
+	{
+		"Name" : "Santa Maria"
+	},
+	{
+		"Name" : "Pagadian"
+	},
+	{
+		"Name" : "Cadiz"
+	},
+	{
+		"Name" : "Bago"
+	},
+	{
+		"Name" : "Toledo"
+	},
+	{
+		"Name" : "Naga"
+	},
+	{
+		"Name" : "San Mateo"
+	},
+	{
+		"Name" : "Panabo"
+	},
+	{
+		"Name" : "Koronadal"
+	},
+	{
+		"Name" : "Marawi"
+	},
+	{
+		"Name" : "Dagupan"
+	},
+	{
+		"Name" : "Sagay"
+	},
+	{
+		"Name" : "Roxas"
+	},
+	{
+		"Name" : "Lubao"
+	},
+	{
+		"Name" : "Digos"
+	},
+	{
+		"Name" : "San Miguel"
+	},
+	{
+		"Name" : "Malaybalay"
+	},
+	{
+		"Name" : "Tuguegarao"
+	},
+	{
+		"Name" : "Ilagan"
+	},
+	{
+		"Name" : "Baliuag"
+	},
+	{
+		"Name" : "Surigao"
+	},
+	{
+		"Name" : "San Carlos"
+	},
+	{
+		"Name" : "San Juan del Monte"
+	},
+	{
+		"Name" : "Tanauan"
+	},
+	{
+		"Name" : "Concepcion"
+	},
+	{
+		"Name" : "Rodriguez (Montalban)"
+	},
+	{
+		"Name" : "Sariaya"
+	},
+	{
+		"Name" : "Malasiqui"
+	},
+	{
+		"Name" : "General Mariano Alvarez"
+	},
+	{
+		"Name" : "Urdaneta"
+	},
+	{
+		"Name" : "Hagonoy"
+	},
+	{
+		"Name" : "San Jose"
+	},
+	{
+		"Name" : "Polomolok"
+	},
+	{
+		"Name" : "Santiago"
+	},
+	{
+		"Name" : "Tanza"
+	},
+	{
+		"Name" : "Ozamis"
+	},
+	{
+		"Name" : "Mexico"
+	},
+	{
+		"Name" : "San Jose"
+	},
+	{
+		"Name" : "Silay"
+	},
+	{
+		"Name" : "General Trias"
+	},
+	{
+		"Name" : "Tabaco"
+	},
+	{
+		"Name" : "Cabuyao"
+	},
+	{
+		"Name" : "Calapan"
+	},
+	{
+		"Name" : "Mati"
+	},
+	{
+		"Name" : "Midsayap"
+	},
+	{
+		"Name" : "Cauayan"
+	},
+	{
+		"Name" : "Gingoog"
+	},
+	{
+		"Name" : "Dumaguete"
+	},
+	{
+		"Name" : "San Fernando"
+	},
+	{
+		"Name" : "Arayat"
+	},
+	{
+		"Name" : "Bayawan (Tulong)"
+	},
+	{
+		"Name" : "Kidapawan"
+	},
+	{
+		"Name" : "Daraga (Locsin)"
+	},
+	{
+		"Name" : "Marilao"
+	},
+	{
+		"Name" : "Malita"
+	},
+	{
+		"Name" : "Dipolog"
+	},
+	{
+		"Name" : "Cavite"
+	},
+	{
+		"Name" : "Danao"
+	},
+	{
+		"Name" : "Bislig"
+	},
+	{
+		"Name" : "Talavera"
+	},
+	{
+		"Name" : "Guagua"
+	},
+	{
+		"Name" : "Bayambang"
+	},
+	{
+		"Name" : "Nasugbu"
+	},
+	{
+		"Name" : "Baybay"
+	},
+	{
+		"Name" : "Capas"
+	},
+	{
+		"Name" : "Sultan Kudarat"
+	},
+	{
+		"Name" : "Laoag"
+	},
+	{
+		"Name" : "Bayugan"
+	},
+	{
+		"Name" : "Malungon"
+	},
+	{
+		"Name" : "Santa Cruz"
+	},
+	{
+		"Name" : "Sorsogon"
+	},
+	{
+		"Name" : "Candelaria"
+	},
+	{
+		"Name" : "Ligao"
+	},
+	{
+		"Name" : "TÃ³rshavn"
+	},
+	{
+		"Name" : "Libreville"
+	},
+	{
+		"Name" : "Serekunda"
+	},
+	{
+		"Name" : "Banjul"
+	},
+	{
+		"Name" : "Tbilisi"
+	},
+	{
+		"Name" : "Kutaisi"
+	},
+	{
+		"Name" : "Rustavi"
+	},
+	{
+		"Name" : "Batumi"
+	},
+	{
+		"Name" : "Sohumi"
+	},
+	{
+		"Name" : "Accra"
+	},
+	{
+		"Name" : "Kumasi"
+	},
+	{
+		"Name" : "Tamale"
+	},
+	{
+		"Name" : "Tema"
+	},
+	{
+		"Name" : "Sekondi-Takoradi"
+	},
+	{
+		"Name" : "Gibraltar"
+	},
+	{
+		"Name" : "Saint GeorgeÂ´s"
+	},
+	{
+		"Name" : "Nuuk"
+	},
+	{
+		"Name" : "Les Abymes"
+	},
+	{
+		"Name" : "Basse-Terre"
+	},
+	{
+		"Name" : "Tamuning"
+	},
+	{
+		"Name" : "AgaÃ±a"
+	},
+	{
+		"Name" : "Ciudad de Guatemala"
+	},
+	{
+		"Name" : "Mixco"
+	},
+	{
+		"Name" : "Villa Nueva"
+	},
+	{
+		"Name" : "Quetzaltenango"
+	},
+	{
+		"Name" : "Conakry"
+	},
+	{
+		"Name" : "Bissau"
+	},
+	{
+		"Name" : "Georgetown"
+	},
+	{
+		"Name" : "Port-au-Prince"
+	},
+	{
+		"Name" : "Carrefour"
+	},
+	{
+		"Name" : "Delmas"
+	},
+	{
+		"Name" : "Le-Cap-HaÃ¯tien"
+	},
+	{
+		"Name" : "Tegucigalpa"
+	},
+	{
+		"Name" : "San Pedro Sula"
+	},
+	{
+		"Name" : "La Ceiba"
+	},
+	{
+		"Name" : "Kowloon and New Kowloon"
+	},
+	{
+		"Name" : "Victoria"
+	},
+	{
+		"Name" : "Longyearbyen"
+	},
+	{
+		"Name" : "Jakarta"
+	},
+	{
+		"Name" : "Surabaya"
+	},
+	{
+		"Name" : "Bandung"
+	},
+	{
+		"Name" : "Medan"
+	},
+	{
+		"Name" : "Palembang"
+	},
+	{
+		"Name" : "Tangerang"
+	},
+	{
+		"Name" : "Semarang"
+	},
+	{
+		"Name" : "Ujung Pandang"
+	},
+	{
+		"Name" : "Malang"
+	},
+	{
+		"Name" : "Bandar Lampung"
+	},
+	{
+		"Name" : "Bekasi"
+	},
+	{
+		"Name" : "Padang"
+	},
+	{
+		"Name" : "Surakarta"
+	},
+	{
+		"Name" : "Banjarmasin"
+	},
+	{
+		"Name" : "Pekan Baru"
+	},
+	{
+		"Name" : "Denpasar"
+	},
+	{
+		"Name" : "Yogyakarta"
+	},
+	{
+		"Name" : "Pontianak"
+	},
+	{
+		"Name" : "Samarinda"
+	},
+	{
+		"Name" : "Jambi"
+	},
+	{
+		"Name" : "Depok"
+	},
+	{
+		"Name" : "Cimahi"
+	},
+	{
+		"Name" : "Balikpapan"
+	},
+	{
+		"Name" : "Manado"
+	},
+	{
+		"Name" : "Mataram"
+	},
+	{
+		"Name" : "Pekalongan"
+	},
+	{
+		"Name" : "Tegal"
+	},
+	{
+		"Name" : "Bogor"
+	},
+	{
+		"Name" : "Ciputat"
+	},
+	{
+		"Name" : "Pondokgede"
+	},
+	{
+		"Name" : "Cirebon"
+	},
+	{
+		"Name" : "Kediri"
+	},
+	{
+		"Name" : "Ambon"
+	},
+	{
+		"Name" : "Jember"
+	},
+	{
+		"Name" : "Cilacap"
+	},
+	{
+		"Name" : "Cimanggis"
+	},
+	{
+		"Name" : "Pematang Siantar"
+	},
+	{
+		"Name" : "Purwokerto"
+	},
+	{
+		"Name" : "Ciomas"
+	},
+	{
+		"Name" : "Tasikmalaya"
+	},
+	{
+		"Name" : "Madiun"
+	},
+	{
+		"Name" : "Bengkulu"
+	},
+	{
+		"Name" : "Karawang"
+	},
+	{
+		"Name" : "Banda Aceh"
+	},
+	{
+		"Name" : "Palu"
+	},
+	{
+		"Name" : "Pasuruan"
+	},
+	{
+		"Name" : "Kupang"
+	},
+	{
+		"Name" : "Tebing Tinggi"
+	},
+	{
+		"Name" : "Percut Sei Tuan"
+	},
+	{
+		"Name" : "Binjai"
+	},
+	{
+		"Name" : "Sukabumi"
+	},
+	{
+		"Name" : "Waru"
+	},
+	{
+		"Name" : "Pangkal Pinang"
+	},
+	{
+		"Name" : "Magelang"
+	},
+	{
+		"Name" : "Blitar"
+	},
+	{
+		"Name" : "Serang"
+	},
+	{
+		"Name" : "Probolinggo"
+	},
+	{
+		"Name" : "Cilegon"
+	},
+	{
+		"Name" : "Cianjur"
+	},
+	{
+		"Name" : "Ciparay"
+	},
+	{
+		"Name" : "Lhokseumawe"
+	},
+	{
+		"Name" : "Taman"
+	}
+]
