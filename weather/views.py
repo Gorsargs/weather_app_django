@@ -6,7 +6,7 @@ from .forms import CityForm
 from random import shuffle
 
 
-context = {'form': CityForm()}
+context = {}
 
 with open('json/cities.json','rb') as json_file:
     data = json.load(json_file)
@@ -18,7 +18,6 @@ with open('json/cities.json','rb') as json_file:
 def index(request):
     global context
     cities = City.objects.all().order_by('id')
-    
     API_key = 'd44e6b76b99c928abf23f8db47ea2a9a'
     url = " http://api.openweathermap.org/data/2.5/weather?q={}&units=metric&appid=" + API_key
     
@@ -30,10 +29,8 @@ def index(request):
             form = CityForm(req_dict)
             if form.is_valid():
                 form.save()
-    
-
+            
     form = CityForm()
-
     all_cities = []
     for city in cities[::-1]:
         resp = requests.get(url.format(city.name))
