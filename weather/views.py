@@ -23,7 +23,6 @@ def index(request):
     url = " http://api.openweathermap.org/data/2.5/weather?q={}&units=metric&appid=" + API_key
     
     if request.method == 'POST':
-        print(request.POST)
         if requests.get(url.format(request.POST['name'])).status_code == 200:
             real_name = requests.get(url.format(request.POST['name'])).json()['name']
             req_dict = request.POST.dict()
