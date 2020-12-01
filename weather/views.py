@@ -57,6 +57,8 @@ def index(request):
 
 
 def citiesbyname(request):
+    global context
+    
     try:
         by_name = [i for i in city_data if i[0] == request.POST['name'][0].upper()]
     except:
